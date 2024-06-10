@@ -1,0 +1,14 @@
+body{ 
+    color: rgb(37, 131, 100);
+    background-color: rgb(23, 30, 31);
+}
+.titulo-principal{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+}
+.fonte-secundario{
+    font-size: 24px;
+}
+.conteudo-titulo{
+    text-align:center;
+}
